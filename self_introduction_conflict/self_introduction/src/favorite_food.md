@@ -4,3 +4,6 @@ apple
 orange
 melon
 peach
+egg
+watermelon
+avocado
